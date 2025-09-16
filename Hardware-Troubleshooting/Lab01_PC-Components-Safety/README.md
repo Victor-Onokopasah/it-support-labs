@@ -23,7 +23,7 @@ Components Identified
 | RAM                | Temporary storage for active processes          | RAM Photo  |
 | Storage Drive (HDD/SSD) | Permanent data storage                     | Storage Drive (HDD/SSD) Photo  |
 | Power Supply Unit (PSU) | Converts AC to DC power for components     | Power Supply Unit (PSU) Photo  |
-| GPU (if present)        | Handles graphics rendering                 |  GPU (if present)  Photo  |
+| GPU (if present)        | Handles graphics rendering                 |  GPU Photo  |
  
 |External Component | Components Function  |  Photo    |
 |-------------------|----------------------|-----------|
