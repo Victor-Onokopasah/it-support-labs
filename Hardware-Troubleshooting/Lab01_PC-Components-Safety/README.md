@@ -3,9 +3,15 @@
 Objective:
 Identify the main internal and external components of a personal computer, understand their functions, and apply proper safety procedures when handling hardware.
 
-Reference Material:
-- TESDA CHS: Introduction to Computer Hardware Servicing  
-- Cisco Networking Academy – IT Essentials.
+ Reference Material:
+1. Technical Education and Skills Development Authority (TESDA). Introduction to Computer Hardware Servicing (NC II). Philippines: TESDA, 2013.  
+    – Official government training module covering PC hardware, safety, preventive maintenance, and basic troubleshooting.
+
+2. Cisco Networking Academy. IT Essentials, Version 8. Cisco Systems, Inc.  
+    – Comprehensive IT support curriculum aligned with CompTIA A+ objectives, including hardware, operating systems, networking, and security labs.
+
+3. IBM SkillsBuild. IT Support Fundamentals Learning Path. IBM Corporation. Available at: [IBM SkillsBuild IT Support Courses](https://skillsbuild.org/students/course-catalog/it-support)  
+    – Free, self‑paced modules covering hardware, software, networking, troubleshooting, cloud, and customer service skills. Used for supplementary diagrams, terminology, and scenario‑based exercises.
 
 Tools & Resources
 - Anti-static wrist strap
