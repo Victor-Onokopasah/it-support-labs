@@ -40,7 +40,7 @@ Components Identified
 
 Safety Procedures Followed
 1. Power Down & Unplug the PC before opening the case.
-2. Wear an Anti‑Static Wrist Strap** to prevent electrostatic discharge (ESD).
+2. Wear an Anti‑Static Wrist Strap to prevent electrostatic discharge (ESD).
 3. Work on a Non‑Conductive Surface (e.g., wooden table).
 4. Handle Components by the Edges — avoid touching circuitry.
 5. Keep Drinks and Food Away from the workspace.
