@@ -36,10 +36,10 @@ Components Identified
 | Internal Component |             Components Function                 |    Photo       
 |--------------------|-------------------------------------------------|----------------|
 | Motherboard        | Main circuit board that connects all components | <img src="./Images/Motherboard.jpg" width="150"/> |
-| CPU                | Executes instructions and processes data        | CPU Photo  |
-| RAM                | Temporary storage for active processes          | RAM Photo  |
-| Storage Drive (HDD/SSD) | Permanent data storage                     | Storage Drive (HDD/SSD) Photo  |
-| Power Supply Unit (PSU) | Converts AC to DC power for components     | Power Supply Unit (PSU) Photo  |
+| CPU                | Executes instructions and processes data        | <img src="./Images/lab01_cpu.jpg" width="150"/>   |
+| RAM                | Temporary storage for active processes          | <img src="./Images/lab01_ram.jpg" width="150"/> |
+| Storage Drive (HDD/SSD) | Permanent data storage                     | <img src="./Images/lab01_storage.jpg" width="150"/> |
+| Power Supply Unit (PSU) | Converts AC to DC power for components     | <img src="./Images/lab01_psu.jpg" width="150"/> |
 | GPU                | Handles graphics rendering                      |  GPU Photo  |
 
  
