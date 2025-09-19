@@ -35,7 +35,7 @@ Components Identified
 
 | Internal Component |             Components Function                 |    Photo       
 |--------------------|-------------------------------------------------|----------------|
-| Motherboard        | Main circuit board that connects all components | ![Motherboard](./images/lab01_motherboard.png) |
+| Motherboard        | Main circuit board that connects all components | ![Motherboard](./Images/Motherboard.jpg) |
 | CPU                | Executes instructions and processes data        | CPU Photo  |
 | RAM                | Temporary storage for active processes          | RAM Photo  |
 | Storage Drive (HDD/SSD) | Permanent data storage                     | Storage Drive (HDD/SSD) Photo  |
