@@ -38,7 +38,7 @@ Components Identified
 | Motherboard        | Main circuit board that connects all components | <img src="./Images/Motherboard.jpg" width="150"/> |
 | CPU                | Executes instructions and processes data        | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/cpu.jpg?raw=true" width="150"/> |
 | RAM                | Temporary storage for active processes          | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/ram.jpg?raw=true" width="150"/> |
-| Storage Drive (HDD/SSD) | Permanent data storage                     | <img src="./Images/lab01_storage.jpg" width="150"/> |
+| Storage Drive (HDD/SSD) | Permanent data storage                     | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/storage.jpg?raw=true" width="150"/> |
 | Power Supply Unit (PSU) | Converts AC to DC power for components     | <img src="./Images/lab01_psu.jpg" width="150"/> |
 | GPU                | Handles graphics rendering                      |  GPU Photo  |
 
