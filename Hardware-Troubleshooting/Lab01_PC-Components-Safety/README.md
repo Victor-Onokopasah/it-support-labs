@@ -1,3 +1,9 @@
+**Author:** Victor Onokopasah  
+**Lab:** 01 – PC Components & Safety  
+**Date:** November 2024
+
+
+
 # Lab 01 – PC Components & Safety
 
 Objective:
