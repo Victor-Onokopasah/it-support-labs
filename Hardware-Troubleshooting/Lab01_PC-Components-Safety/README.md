@@ -61,32 +61,43 @@ Components Identified
 | Mouse    | Pointing device for navigation     | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/mouse.jpg?raw=true" width="150"/> |
 | Speakers/Headset | Audio output | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/speakers%20headset.jpg?raw=true" width="150"/> |
 
-Safety Procedures Followed
-1. Power Down & Unplug the PC before opening the case.
+## Safety Procedures Followed
 
-2. Wear an Anti‑Static Wrist Strap to prevent electrostatic discharge (ESD).
+1. Power Down & Unplug the PC before opening the case.  
 
-3. Work on a Non‑Conductive Surface (e.g., wooden table).
+2. Wear an Anti‑Static Wrist Strap to prevent electrostatic discharge (ESD).  
 
-4. Handle Components by the Edges — avoid touching circuitry.
+3. Work on a Non‑Conductive Surface (e.g., wooden table).  
 
-5. Keep Drinks and Food Away from the workspace.
+4. Handle Components by the Edges — avoid touching circuitry.  
 
-6. Organize Screws and Small Parts in a container.
+5. Keep Drinks and Food Away from the workspace.  
 
-Steps Taken
-1. Cleared workspace and gathered tools.
+6. Organize Screws and Small Parts in a container.  
 
-2. Powered down and unplugged the PC.
-3. Wore anti‑static wrist strap and connected it to a grounded surface.
-4. Opened the PC case using a Phillips screwdriver.
-5. Identified and photographed each internal component.
-6. Closed the case and reconnected peripherals.
 
- Outcome
-- Successfully identified all major PC components.
-- Practiced safe handling procedures to prevent damage.
-- Created a photo catalog of components for future reference.
+## Steps Taken
+
+1. Cleared workspace and gathered tools.  
+
+2. Powered down and unplugged the PC.  
+
+3. Wore anti‑static wrist strap and connected it to a grounded surface.  
+
+4. Opened the PC case using a Phillips screwdriver.  
+
+5. Identified and photographed each internal component.  
+
+6. Closed the case and reconnected peripherals.  
+
+
+## Outcome
+
+- Successfully identified all major PC components.  
+
+- Practiced safe handling procedures to prevent damage.  
+
+- Created a photo catalog of components for future reference.  
 
 ## Practical Scenarios
 
