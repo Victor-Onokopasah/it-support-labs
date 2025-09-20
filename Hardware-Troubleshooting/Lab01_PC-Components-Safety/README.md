@@ -48,6 +48,8 @@ Components Identified
 | Power Supply Unit (PSU) | Converts AC to DC power for components     | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/psu.jpg?raw=true" width="150"/> |
 | GPU                | Handles graphics rendering                      | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/gpu.jpg?raw=true" width="150"/> |
 
+Error/Risk Awareness: Include a short note about what could go wrong (e.g. “Touching the gold contacts on RAM may cause corrosion or ESD damage”). This makes it feel even more like an actual troubleshooting guide.
+
  
 |External Component | Components Function  |  Photo    |
 |-------------------|----------------------|-----------|
@@ -76,5 +78,15 @@ Steps Taken
 - Successfully identified all major PC components.
 - Practiced safe handling procedures to prevent damage.
 - Created a photo catalog of components for future reference.
+
+## Practical Scenarios
+
+Adding some real-world situations helps connect the lab work to actual IT support troubleshooting.
+
+- **PC doesn’t turn on** → Check the power cable and power supply unit (PSU).  
+- **Computer beeps repeatedly on startup** → Suspect RAM issues (reseat or replace).  
+- **No display on monitor** → Verify the monitor power, cable connection, and graphics card seating.  
+- **System randomly restarts** → Check for overheating (CPU fan, dust build-up), or test PSU stability.  
+- **USB devices not working** → Inspect USB ports for physical damage and confirm drivers are installed.
 
 
