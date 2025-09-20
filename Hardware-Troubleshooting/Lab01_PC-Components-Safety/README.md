@@ -40,7 +40,7 @@ Components Identified
 | RAM                | Temporary storage for active processes          | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/ram.jpg?raw=true" width="150"/> |
 | Storage Drive (HDD/SSD) | Permanent data storage                     | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/storage.jpg?raw=true" width="150"/> |
 | Power Supply Unit (PSU) | Converts AC to DC power for components     | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/psu.jpg?raw=true" width="150"/> |
-| GPU                | Handles graphics rendering                      |  GPU Photo  |
+| GPU                | Handles graphics rendering                      | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/gpu.jpg?raw=true" width="150"/> |
 
  
 |External Component | Components Function  |  Photo    |
