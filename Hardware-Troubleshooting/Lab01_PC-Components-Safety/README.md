@@ -48,7 +48,7 @@ Components Identified
 | Monitor  | Displays visual output        | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/monitor.jpg?raw=true" width="150"/>|
 | Keyboard | Input device for text and commands | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/keyboard.jpg?raw=true" width="150"/> |
 | Mouse    | Pointing device for navigation     | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/working_monitor.jpg?raw=true" width="150"/>|
-| Speakers/Headset | Audio output | Speakers/Headset Photo |
+| Speakers/Headset | Audio output | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/speakers_headset.jpg?raw=true" width="150"/> |
 
 Safety Procedures Followed
 1. Power Down & Unplug the PC before opening the case.
