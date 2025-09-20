@@ -48,7 +48,10 @@ Components Identified
 | Power Supply Unit (PSU) | Converts AC to DC power for components     | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/psu.jpg?raw=true" width="150"/> |
 | GPU                | Handles graphics rendering                      | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/gpu.jpg?raw=true" width="150"/> |
 
-Error/Risk Awareness: Include a short note about what could go wrong (e.g. “Touching the gold contacts on RAM may cause corrosion or ESD damage”). This makes it feel even more like an actual troubleshooting guide.
+## Error/Risk Awareness
+- Touching the gold contacts on RAM may cause corrosion or ESD damage.  
+- Forgetting to ground yourself can fry sensitive components like the CPU or GPU.  
+- Over-tightening screws may crack the motherboard or damage mounts.  
 
  
 |External Component | Components Function  |  Photo    |
@@ -60,14 +63,20 @@ Error/Risk Awareness: Include a short note about what could go wrong (e.g. “To
 
 Safety Procedures Followed
 1. Power Down & Unplug the PC before opening the case.
+
 2. Wear an Anti‑Static Wrist Strap to prevent electrostatic discharge (ESD).
+
 3. Work on a Non‑Conductive Surface (e.g., wooden table).
+
 4. Handle Components by the Edges — avoid touching circuitry.
+
 5. Keep Drinks and Food Away from the workspace.
+
 6. Organize Screws and Small Parts in a container.
 
 Steps Taken
 1. Cleared workspace and gathered tools.
+
 2. Powered down and unplugged the PC.
 3. Wore anti‑static wrist strap and connected it to a grounded surface.
 4. Opened the PC case using a Phillips screwdriver.
