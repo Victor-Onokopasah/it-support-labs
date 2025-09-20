@@ -36,29 +36,25 @@ Using both an anti‑static wrist strap and ESD‑safe gloves demonstrates adher
 - Camera or smartphone (for documentation)  
 - Compressed air (optional, for cleaning)  
 
-Components Identified
+## Components Identified
 
-| Internal Component |             Components Function                 |    Photo       
-|--------------------|-------------------------------------------------|----------------|
+### Internal Components
+| Internal Component | Components Function | Photo |
+|--------------------|---------------------|-------|
 | Motherboard        | Main circuit board that connects all components | <img src="./Images/Motherboard.jpg" width="150"/> |
-| CPU                | Executes instructions and processes data        | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/cpu.jpg?raw=true" width="150"/> |
-| RAM                | Temporary storage for active processes          | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/ram.jpg?raw=true" width="150"/> |
-| Storage Drive (HDD/SSD) | Permanent data storage                     | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/storage.jpg?raw=true" width="150"/> |
-| Power Supply Unit (PSU) | Converts AC to DC power for components     | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/psu.jpg?raw=true" width="150"/> |
-| GPU                | Handles graphics rendering                      | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/gpu.jpg?raw=true" width="150"/> |
+| CPU                | Executes instructions and processes data        | <img src="Images/cpu.jpg" width="150"/> |
+| RAM                | Temporary storage for active processes          | <img src="Images/ram.jpg" width="150"/> |
+| Storage Drive (HDD/SSD) | Permanent data storage                     | <img src="Images/storage.jpg" width="150"/> |
+| Power Supply Unit (PSU) | Converts AC to DC power for components     | <img src="Images/psu.jpg" width="150"/> |
+| GPU                | Handles graphics rendering                      | <img src="Images/gpu.jpg" width="150"/> |
 
-## Error/Risk Awareness
-- Touching the gold contacts on RAM may cause corrosion or ESD damage.  
-- Forgetting to ground yourself can fry sensitive components like the CPU or GPU.  
-- Over-tightening screws may crack the motherboard or damage mounts.  
-
- 
-|External Component | Components Function  |  Photo    |
-|-------------------|----------------------|-----------|
-| Monitor  | Displays visual output        | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/monitor.jpg?raw=true" width="150"/>|
-| Keyboard | Input device for text and commands | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/keyboard.jpg?raw=true" width="150"/> |
-| Mouse    | Pointing device for navigation     | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/mouse.jpg?raw=true" width="150"/> |
-| Speakers/Headset | Audio output | <img src="https://github.com/Victor-Onokopasah/it-support-labs/blob/main/Hardware-Troubleshooting/Lab01_PC-Components-Safety/Images/speakers%20headset.jpg?raw=true" width="150"/> |
+### External Components
+| External Component | Components Function | Photo |
+|--------------------|---------------------|-------|
+| Monitor            | Displays visual output   | <img src="Images/monitor.jpg" width="150"/> |
+| Keyboard           | Input device for text and commands | <img src="Images/keyboard.jpg" width="150"/> |
+| Mouse              | Pointing device for navigation     | <img src="Images/mouse.jpg" width="150"/> |
+| Speakers/Headset   | Audio output                   | <img src="Images/speakers-headset.jpg" width="150"/> |
 
 ## Safety Procedures Followed
 
