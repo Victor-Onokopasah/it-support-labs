@@ -29,7 +29,8 @@ This exercise builds key system administration skills in:
 . Screenshot tools (Windows Snipping Tool, Ubuntu Screenshot utility)
 
 ## Step 1: Windows Partitioning
-Tool Used: Windows Disk Management
+
+**Tool Used:** Windows Disk Management  
 
 1. Booted into Windows 11 installer via USB.
 2. Selected "Custom Installation" option.
@@ -43,13 +44,14 @@ Tool Used: Windows Disk Management
 ![Windows Partition](Images/windows11-partition.png.png)
 
 ## Step 2: Ubuntu Partitioning
-Tools Used: GParted + fdisk (via Ubuntu Installer)
+
+**Tools Used:** GParted + fdisk (via Ubuntu Installer)
 
 1. Booted into Ubuntu 22.04 installer via USB.
 2. Opened GParted and created the following partitions:
-. Root Partition / → 50 GB (ext4)
-. Swap Partition → 4 GB (swap)
-. Home Partition /home → 46 GB (ext4)
+- Root Partition / → 50 GB (ext4)
+- Swap Partition → 4 GB (swap)
+-  Home Partition /home → 46 GB (ext4)
 
  Screenshot:
 ![Ubuntu Partition](Images/ubuntu-partition-gparted.png.png)
@@ -77,7 +79,7 @@ Sample Output:
 /dev/sda5  Linux Swap
 /dev/sda6  Linux Home (/home)
 
-Step 3: GRUB Installation & Recovery
+## Step 3: GRUB Installation & Recovery
 1. During Ubuntu installation, GRUB installed automatically to the EFI partition.
 2. To simulate failure, GRUB bootloader was corrupted. System initially booted directly into Windows.
 3. Booted into Ubuntu Live USB and ran recovery commands:
