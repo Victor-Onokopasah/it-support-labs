@@ -36,8 +36,8 @@ Tool Used: Windows Disk Management
 3. Created the following partitions:
 - EFI System Partition → 100 MB, FAT32
 - Microsoft Reserved Partition → 16 MB
-. Primary Partition for Windows → 100 GB, NTFS
-. Unallocated Space → ~100 GB (left free for Ubuntu)
+- Primary Partition for Windows → 100 GB, NTFS
+- Unallocated Space → ~100 GB (left free for Ubuntu)
 
  Screenshot:
 ![Windows Partition](Images/windows11-partition.png.png)
