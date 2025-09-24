@@ -43,6 +43,20 @@ This exercise builds key system administration skills in:
  Screenshot:
 ![Windows Partition](Images/windows11-partition.png.png)
 
+## Step 1: Disk Partitioning
+(…your explanation of Windows and Ubuntu partitioning…)
+
+### Partition Layout Summary
+| Partition | OS / Purpose        | File System | Size    |
+|-----------|---------------------|-------------|---------|
+| /dev/sda1 | EFI System Partition| FAT32       | 100 MB  |
+| /dev/sda2 | Microsoft Reserved  | MSR         | 16 MB   |
+| /dev/sda3 | Windows Primary     | NTFS        | 100 GB  |
+| /dev/sda4 | Linux Root (`/`)    | ext4        | 50 GB   |
+| /dev/sda5 | Linux Swap          | swap        | 4 GB    |
+| /dev/sda6 | Linux Home (`/home`)| ext4        | 46 GB   |
+
+
 ## Step 2: Ubuntu Partitioning
 
 **Tools Used:** GParted + fdisk (via Ubuntu Installer)
@@ -116,4 +130,12 @@ sudo reboot
 -  GRUB bootloader failure simulated and restored using grub-install
 -  Verified dual-boot functionality with partition screenshots and fdisk logs
 -  Documentation complete with tools, partitioning steps, commands, outcomes, and references
+
+- ## Lessons Learned
+- **Importance of EFI Partition**: Both Windows and Ubuntu rely on the EFI partition for boot management. Misconfiguring it can prevent either OS from loading.
+- **GRUB Recovery Skills**: Practiced reinstalling GRUB after simulating a bootloader failure, reinforcing troubleshooting under pressure.
+- **Partition Strategy Matters**: Separating `/home` from `/` ensures user data is preserved even if the OS needs reinstallation.
+- **Cross-Platform Awareness**: Learned how Windows Disk Management and Linux GParted/fdisk interpret the same disk differently.
+- **Documentation Discipline**: Capturing screenshots and command logs during setup made the lab reproducible and recruiter-ready.
+
 
