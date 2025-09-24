@@ -31,9 +31,9 @@ Set up a dual-boot system with Windows 11 and Ubuntu 22.04, simulate GRUB bootlo
 - Windows Disk Management
 - Ubuntu GParted and `fdisk`
 
-<img src="images/windows11-partition-graph.png" alt="Windows Partition" width="600"/>
-<img src="images/ubuntu-partition-graph.png" alt="Ubuntu Partition" width="600"/>
-<img src="images/kdisk-output.png" alt="fdisk Output" width="600"/>
+<img src="Images/windows11-partition.png.png" alt="Windows Partition" width="600"/>
+<img src="Images/ubuntu-partition-gparted.png.png" alt="Ubuntu Partition" width="600"/>
+<img src="Images/fdisk-output.png.png" alt="fdisk Output" width="600"/>
 
 ### Notes
 - Partition strategy ensures OS separation and data integrity.
