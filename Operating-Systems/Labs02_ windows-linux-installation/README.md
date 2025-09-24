@@ -28,7 +28,7 @@ This exercise builds key system administration skills in:
 . Terminal (CMD, Bash)
 . Screenshot tools (Windows Snipping Tool, Ubuntu Screenshot utility)
 
-Step 1: Windows Partitioning
+## Step 1: Windows Partitioning
 Tool Used: Windows Disk Management
 
 1. Booted into Windows 11 installer via USB.
@@ -42,7 +42,7 @@ Tool Used: Windows Disk Management
  Screenshot:
 ![Windows Partition](Images/windows11-partition.png.png)
 
-Step 2: Ubuntu Partitioning
+## Step 2: Ubuntu Partitioning
 Tools Used: GParted + fdisk (via Ubuntu Installer)
 
 1. Booted into Ubuntu 22.04 installer via USB.
