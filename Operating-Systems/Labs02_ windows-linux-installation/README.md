@@ -52,15 +52,14 @@ Tools Used: GParted + fdisk (via Ubuntu Installer)
 . Home Partition /home → 46 GB (ext4)
 
  Screenshot:
-<img src="Images/ubuntu-partition-gparted.png.png" alt="Ubuntu Partition" width="600"/>
-
+![Ubuntu Partition](Images/ubuntu-partition-gparted.png.png)
 
 Verified partitions using fdisk:
 
 sudo fdisk -l
 
  Screenshot:
-<img src="Images/fdisk-output.png.png" alt="fdisk Output" width="600"/>
+![fdisk Output](Images/fdisk-output.png.png)
 
 Sample Output:
 /dev/sda1  EFI System Partition
