@@ -1,8 +1,7 @@
-Lab 02: Partition Setup Log — Dual-Boot Windows 11 + Ubuntu 22.04
 
-Lab Name: lab-02-windows-linux-installation
-Author: Victor Onokopasah
-Date: 2024-09-23
+**Author:** Victor Onokopasah
+**Lab:** 02 – Windows-Linux-Installation
+**Date:** 2024-09-23
 
 Objective
 Perform a dual-boot setup with Windows 11 and Ubuntu 22.04, configure disk partitions for both operating systems, simulate GRUB bootloader failure, perform recovery, and document the full process with logs and screenshots.
