@@ -1,7 +1,8 @@
+**Author:** Victor Onokopasah  
+**Lab:** 02 – Windows-Linux-Installation  
+**Date:** 2024-09-23  
 
-**Author:** Victor Onokopasah
-**Lab:** 02 – Windows-Linux-Installation
-**Date:** 2024-09-23
+
 
 # Lab 02: - Windows-Linux-Installation
 
