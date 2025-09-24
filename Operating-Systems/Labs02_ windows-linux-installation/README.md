@@ -59,7 +59,7 @@ Verified partitions using fdisk:
 sudo fdisk -l
 
  Screenshot:
-![fdisk Output](Images/fdisk-output.png)
+![fdisk Output](Images/fdisk-output.png.png)
 
 Sample Output:
 /dev/sda1  EFI System Partition
