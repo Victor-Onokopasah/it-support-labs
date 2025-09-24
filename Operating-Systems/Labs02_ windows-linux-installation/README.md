@@ -35,6 +35,46 @@ Set up a dual-boot system with Windows 11 and Ubuntu 22.04, simulate GRUB bootlo
 <img src="Images/ubuntu-partition-gparted.png.png" alt="Ubuntu Partition" width="600"/>
 <img src="Images/fdisk-output.png.png" alt="fdisk Output" width="600"/>
 
+
+# Partition Setup Log: Dual-Boot Windows 11 + Ubuntu 22.04
+# Lab: lab-02-windows-linux-installation
+# Author: Victor Onokopasah
+# Date: [Insert Date]
+
+==============================
+== Windows Partitioning Steps ==
+==============================
+
+Tool: Windows Disk Management
+
+1. Booted into Windows 11 installer via USB.
+2. Selected "Custom Install" option.
+3. Created the following partitions:
+   - EFI System Partition: 100 MB (FAT32)
+   - Microsoft Reserved Partition: 16 MB
+   - Primary Partition for Windows: 100 GB (NTFS)
+   - Left ~100 GB unallocated for Ubuntu
+
+Screenshot saved: screenshots/windows-partition.png
+
+==============================
+== Ubuntu Partitioning Steps ==
+==============================
+
+Tool: GParted (Ubuntu Installer) and fdisk
+
+1. Booted into Ubuntu 22.04 installer via USB.
+2. Launched GParted and created:
+   - Root Partition `/` : 50 GB (ext4)
+   - Swap Partition: 4 GB (swap)
+   - Home Partition `/home` : 46 GB (ext4)
+
+3. Verified partitions using fdisk:
+   Command:
+   ```bash
+   sudo fdisk -l
+
+
 ### Notes
 - Partition strategy ensures OS separation and data integrity.
 - Swap partition added for memory management on low-RAM systems.
