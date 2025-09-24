@@ -32,7 +32,7 @@ Set up a dual-boot system with Windows 11 and Ubuntu 22.04, simulate GRUB bootlo
 - Ubuntu GParted and `fdisk`
 
 ### Screenshots
-- [Windows11 Partition Layout]![Windows Partition](images/windows11-partition.png)
+- <img src="images/windows11-partition.png" alt="Windows 11 Partition Layout" width="600"/>
 - [Ubuntu Partition Layout via GParted](Images/ubuntu-partition-gparted.png)
 - [fdisk Output](Images/fdisk-output.png)
 
