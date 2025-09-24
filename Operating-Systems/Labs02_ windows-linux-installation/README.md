@@ -9,11 +9,11 @@ Perform a dual-boot setup with Windows 11 and Ubuntu 22.04, configure disk parti
 
 This exercise builds key system administration skills in:
 
-. Disk partitioning & file system management
-. Dual-boot configuration with Windows + Linux
-. GRUB bootloader troubleshooting & recovery
-. User and privilege management
-. Technical documentation for system recovery
+-  Disk partitioning & file system management
+-  Dual-boot configuration with Windows + Linux
+-  GRUB bootloader troubleshooting & recovery
+-  User and privilege management
+-  Technical documentation for system recovery
 
 ## Key Skills
 - Disk partitioning and OS installation
@@ -22,11 +22,11 @@ This exercise builds key system administration skills in:
 - Cross-platform recovery documentation
 
 ## Tools Used
-. Windows Disk Management (installer)
-. Ubuntu 22.04 Installer (GParted, fdisk)
-. grub-install, update-grub (for GRUB recovery)
-. Terminal (CMD, Bash)
-. Screenshot tools (Windows Snipping Tool, Ubuntu Screenshot utility)
+-  Windows Disk Management (installer)
+- Ubuntu 22.04 Installer (GParted, fdisk)
+- grub-install, update-grub (for GRUB recovery)
+-  Terminal (CMD, Bash)
+- Screenshot tools (Windows Snipping Tool, Ubuntu Screenshot utility)
 
 ## Step 1: Windows Partitioning
 
@@ -100,20 +100,20 @@ sudo reboot
 
 
 ## Notes
-. Partitioning strategy ensures system isolation & data integrity.
-. EFI partition is shared between Windows and GRUB.
-. Swap partition improves performance in low-RAM scenarios.
-. ext4 file system chosen for Linux partitions due to journaling and wide compatibility.
+-  Partitioning strategy ensures system isolation & data integrity.
+-  EFI partition is shared between Windows and GRUB.
+-  Swap partition improves performance in low-RAM scenarios.
+-  ext4 file system chosen for Linux partitions due to journaling and wide compatibility.
 
 
 ## References
-. Cisco IT Essentials v8 – OS & Bootloader Modules
-. IBM SkillsBuild – OS Fundamentals
-. TESDA NC II – Hardware Servicing & Safety
+- Cisco IT Essentials v8 – OS & Bootloader Modules
+- IBM SkillsBuild – OS Fundamentals
+- TESDA NC II – Hardware Servicing & Safety
 
 ## Outcome
-. Dual-boot system successfully installed with Windows 11 and Ubuntu 22.04
-. GRUB bootloader failure simulated and restored using grub-install
-. Verified dual-boot functionality with partition screenshots and fdisk logs
-. Documentation complete with tools, partitioning steps, commands, outcomes, and references
+-  Dual-boot system successfully installed with Windows 11 and Ubuntu 22.04
+-  GRUB bootloader failure simulated and restored using grub-install
+-  Verified dual-boot functionality with partition screenshots and fdisk logs
+-  Documentation complete with tools, partitioning steps, commands, outcomes, and references
 
