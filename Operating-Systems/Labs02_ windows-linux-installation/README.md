@@ -3,6 +3,8 @@
 **Lab:** 02 – Windows-Linux-Installation
 **Date:** 2024-09-23
 
+# Lab 02: - Windows-Linux-Installation
+
 Objective
 Perform a dual-boot setup with Windows 11 and Ubuntu 22.04, configure disk partitions for both operating systems, simulate GRUB bootloader failure, perform recovery, and document the full process with logs and screenshots.
 
