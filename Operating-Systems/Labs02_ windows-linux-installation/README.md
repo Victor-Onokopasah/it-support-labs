@@ -102,7 +102,7 @@ sudo reboot
 . IBM SkillsBuild – OS Fundamentals
 . TESDA NC II – Hardware Servicing & Safety
 
-## OOutcome
+## Outcome
 . Dual-boot system successfully installed with Windows 11 and Ubuntu 22.04
 . GRUB bootloader failure simulated and restored using grub-install
 . Verified dual-boot functionality with partition screenshots and fdisk logs
