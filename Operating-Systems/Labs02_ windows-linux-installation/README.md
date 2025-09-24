@@ -112,13 +112,11 @@ sudo reboot
 4. After reboot, GRUB menu restored with options for both Windows 11 and Ubuntu 22.04.
 
 
-
 ## Notes
 -  Partitioning strategy ensures system isolation & data integrity.
 -  EFI partition is shared between Windows and GRUB.
 -  Swap partition improves performance in low-RAM scenarios.
 -  ext4 file system chosen for Linux partitions due to journaling and wide compatibility.
-
 
 ## References
 - Cisco IT Essentials v8 – OS & Bootloader Modules
@@ -131,7 +129,7 @@ sudo reboot
 -  Verified dual-boot functionality with partition screenshots and fdisk logs
 -  Documentation complete with tools, partitioning steps, commands, outcomes, and references
 
-- ## Lessons Learned
+ ## Lessons Learned
 - **Importance of EFI Partition**: Both Windows and Ubuntu rely on the EFI partition for boot management. Misconfiguring it can prevent either OS from loading.
 - **GRUB Recovery Skills**: Practiced reinstalling GRUB after simulating a bootloader failure, reinforcing troubleshooting under pressure.
 - **Partition Strategy Matters**: Separating `/home` from `/` ensures user data is preserved even if the OS needs reinstallation.
