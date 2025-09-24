@@ -56,8 +56,15 @@ Tools Used: GParted + fdisk (via Ubuntu Installer)
 
 sudo fdisk -l
 sudo mount /dev/sda4 /mnt
-...
+sudo mount /dev/sda1 /mnt/boot/efi
+sudo mount --bind /dev /mnt/dev
+sudo mount --bind /proc /mnt/proc
+sudo mount --bind /sys /mnt/sys
+sudo chroot /mnt
+grub-install /dev/sda
 update-grub
+exit
+sudo reboot
 
  Screenshot:
 ![fdisk Output](Images/fdisk-output.png.png)
