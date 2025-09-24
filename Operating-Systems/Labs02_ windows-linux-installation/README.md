@@ -34,8 +34,8 @@ Tool Used: Windows Disk Management
 1. Booted into Windows 11 installer via USB.
 2. Selected "Custom Installation" option.
 3. Created the following partitions:
-. EFI System Partition → 100 MB, FAT32
-. Microsoft Reserved Partition → 16 MB
+- EFI System Partition → 100 MB, FAT32
+- Microsoft Reserved Partition → 16 MB
 . Primary Partition for Windows → 100 GB, NTFS
 . Unallocated Space → ~100 GB (left free for Ubuntu)
 
