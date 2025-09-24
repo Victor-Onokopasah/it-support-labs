@@ -54,9 +54,10 @@ Tools Used: GParted + fdisk (via Ubuntu Installer)
  Screenshot:
 ![Ubuntu Partition](Images/ubuntu-partition-gparted.png.png)
 
-Verified partitions using fdisk:
-
 sudo fdisk -l
+sudo mount /dev/sda4 /mnt
+...
+update-grub
 
  Screenshot:
 ![fdisk Output](Images/fdisk-output.png.png)
