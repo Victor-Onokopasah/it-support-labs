@@ -1,3 +1,8 @@
+# Partition Setup Log: Dual-Boot Windows 11 + Ubuntu 22.04
+# Lab: lab-02-windows-linux-installation
+# Author: Victor Onokopasah
+# Date: 9/23/2025
+
 # Lab 02: Windows + Linux Installation & GRUB Recovery
 
 ## Objective
