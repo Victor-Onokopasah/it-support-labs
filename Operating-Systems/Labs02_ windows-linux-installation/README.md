@@ -40,7 +40,7 @@ Tool Used: Windows Disk Management
 . Unallocated Space → ~100 GB (left free for Ubuntu)
 
  Screenshot:
-<img src="Images/windows11-partition.png.png" alt="Windows Partition" width="600"/>
+![Windows Partition](Images/windows11-partition.png)
 
 Step 2: Ubuntu Partitioning
 Tools Used: GParted + fdisk (via Ubuntu Installer)
