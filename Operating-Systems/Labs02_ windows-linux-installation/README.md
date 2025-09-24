@@ -15,6 +15,33 @@ Set up a dual-boot system with Windows 11 and Ubuntu 22.04, simulate GRUB bootlo
 - Terminal (CMD, Bash)
 - Screenshot tools
 
+## Step 1: Disk Partitioning
+
+### Windows Installer
+- Created a **Primary Partition** (NTFS) for Windows 11.
+- Left **Unallocated Space** for Ubuntu installation.
+
+### Ubuntu Installer
+- Used **GParted** to create:
+  - `/` root partition (ext4)
+  - `swap` partition (optional)
+  - `/home` partition (ext4)
+
+### Tools Used
+- Windows Disk Management
+- Ubuntu GParted and `fdisk`
+
+### Screenshots
+- [Windows11 Partition Layout](<img src="screenshots/windows11-partition.png" alt="Windows 11 Partition Layout" width="600"/>)
+- [Ubuntu Partition Layout via GParted](screenshots/ubuntu-partition-gparted.png)
+- [fdisk Output](screenshots/fdisk-output.png)
+
+### Notes
+- Partition strategy ensures OS separation and data integrity.
+- Swap partition added for memory management on low-RAM systems.
+
+
+
 ## References
 - Cisco IT Essentials v8 – OS & Bootloader modules
 - IBM SkillsBuild – OS Fundamentals
