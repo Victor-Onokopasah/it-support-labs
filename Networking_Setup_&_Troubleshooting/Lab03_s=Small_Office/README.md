@@ -26,3 +26,9 @@ This exercise builds key networking administration skills in:
 - Software/Utilities: Wi-Fi analyzer (NetSpot), terminal (CMD/Bash), port forwarding tester (CanYouSeeMe.org)
 - Commands: ping, tracert, ipconfig (Windows), ifconfig, nslookup (Linux/macOS)
 - Diagramming: draw.io (for topology diagram), Mermaid (for diagram‑as‑code in GitHub)
+
+## Step 1: Network Topology Design
+- Sketch diagram (draw.io) showing:
+ - Router (WAN port → Modem/Internet)
+ - Switch (LAN ports → Wired devices)
+ - Devices (computers, phones via Wi‑Fi, optional Raspberry Pi)
