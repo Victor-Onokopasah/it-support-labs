@@ -28,12 +28,6 @@ This exercise builds key networking administration skills in:
 - Diagramming: draw.io (for topology diagram), Mermaid (for diagram‑as‑code in GitHub)
 
 ## Step 1: Network Topology Design
-- Sketch diagram (draw.io) showing:
- - Router (WAN port → Modem/Internet)
- - Switch (LAN ports → Wired devices)
- - Devices (computers, phones via Wi‑Fi, optional Raspberry Pi)
-
-## Step 1: Network Topology Design
 Sketch Diagram:
 - Router (WAN port → Modem/Internet)
 - Switch (LAN ports → Wired devices)
@@ -41,3 +35,7 @@ Sketch Diagram:
   - Computers
   - Phones (via Wi‑Fi)
   - Raspberry Pi (optional)
+ 
+> Extended Options:
+> -  Mesh Node: Router → Mesh Node → Seamless Wi‑Fi coverage across floors
+> -  Powerline Adapter: Router → Powerline Adapter → Remote Room Adapter → Wired PC/Smart TV
