@@ -35,9 +35,6 @@ Sketch Diagram:
   - Computers
   - Phones (via Wi‑Fi)
   - Raspberry Pi (optional)
-  - 
-## Step 1: Network Topology Design  
-![Network Topology Design](./topology-design.jpg)  
  
 > Extended Options:
 > -  Mesh Node: Router → Mesh Node → Seamless Wi‑Fi coverage across floors
