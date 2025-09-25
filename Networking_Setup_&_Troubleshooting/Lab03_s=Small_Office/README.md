@@ -28,8 +28,8 @@ This exercise builds key networking administration skills in:
 - Diagramming: draw.io (for topology diagram), Mermaid (for diagram‑as‑code in GitHub)
 
 ## Step 1: Network Topology Design  
-(./topology-design.jpg)  
- 
+![Network Topology Design](./topology-design.jpeg)  
+
 > Extended Options:
 > -  Mesh Node: Router → Mesh Node → Seamless Wi‑Fi coverage across floors
 > -  Powerline Adapter: Router → Powerline Adapter → Remote Room Adapter → Wired PC/Smart TV
