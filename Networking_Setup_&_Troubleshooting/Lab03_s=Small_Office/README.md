@@ -27,14 +27,8 @@ This exercise builds key networking administration skills in:
 - Commands: ping, tracert, ipconfig (Windows), ifconfig, nslookup (Linux/macOS)
 - Diagramming: draw.io (for topology diagram), Mermaid (for diagram‑as‑code in GitHub)
 
-## Step 1: Network Topology Design
-Sketch Diagram:
-- Router (WAN port → Modem/Internet)
-- Switch (LAN ports → Wired devices)
-- Devices:
-  - Computers
-  - Phones (via Wi‑Fi)
-  - Raspberry Pi (optional)
+## Step 1: Network Topology Design  
+![Network Topology Design](./topology-design.png)  
  
 > Extended Options:
 > -  Mesh Node: Router → Mesh Node → Seamless Wi‑Fi coverage across floors
