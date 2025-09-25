@@ -20,3 +20,4 @@ This exercise builds key networking administration skills in:
 - DHCP scope setup and DNS resolution troubleshooting
 - Wi-Fi performance optimization (channel selection)
 - CLI-based network diagnostics (ping, tracert, ipconfig/ifconfig)
+  
