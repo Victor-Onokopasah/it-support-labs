@@ -32,3 +32,12 @@ This exercise builds key networking administration skills in:
  - Router (WAN port → Modem/Internet)
  - Switch (LAN ports → Wired devices)
  - Devices (computers, phones via Wi‑Fi, optional Raspberry Pi)
+
+## Step 1: Network Topology Design
+Sketch Diagram:
+- Router (WAN port → Modem/Internet)
+- Switch (LAN ports → Wired devices)
+- Devices:
+  - Computers
+  - Phones (via Wi‑Fi)
+  - Raspberry Pi (optional)
