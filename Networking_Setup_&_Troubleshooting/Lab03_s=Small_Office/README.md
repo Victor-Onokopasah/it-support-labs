@@ -41,3 +41,22 @@ This exercise builds key networking administration skills in:
 > - Mesh Node: Router → Mesh Node → Seamless Wi-Fi coverage across floors  
 > - Powerline Adapter: Router → Powerline Adapter → Remote Room Adapter → Wired PC/Smart TV
 
+graph TD
+    Internet((Internet))
+    Router[Router 192.168.1.1]
+    Switch[Switch]
+    PC1[Computer 1 (DHCP)]
+    PC2[Computer 2 (DHCP)]
+    Phone1((Phone - WiFi))
+    Phone2((Phone - WiFi))
+    Pi[Raspberry Pi 192.168.1.10]
+    Printer[Printer 192.168.1.20]
+
+    Internet -->|WAN| Router
+    Router -->|LAN| Switch
+    Switch --> PC1
+    Switch --> PC2
+    Switch --> Pi
+    Switch --> Printer
+    Router -.WiFi.-> Phone1
+    Router -.WiFi.-> Phone2
