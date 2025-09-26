@@ -41,23 +41,28 @@ This exercise builds key networking administration skills in:
 > - Mesh Node: Router → Mesh Node → Seamless Wi-Fi coverage across floors  
 > - Powerline Adapter: Router → Powerline Adapter → Remote Room Adapter → Wired PC/Smart TV
 
-```mermaid
-graph TD
-    Internet((Internet))
-    Router[Router 192.168.1.1]
-    Switch[Switch]
-    PC1[Computer 1 (DHCP)]
-    PC2[Computer 2 (DHCP)]
-    Phone1((Phone - WiFi))
-    Phone2((Phone - WiFi))
-    Pi[Raspberry Pi 192.168.1.10]
-    Printer[Printer 192.168.1.20]
+## Step 2: Router Configuration
+- Access admin panel (192.168.1.1)
+- Configure SSID: HomeNet_2025 with WPA2/WPA3 security
+- Enable DHCP (scope: 192.168.1.100–200)
+- Disable UPnP (security best practice)
 
-    Internet --> Router
-    Router -->|LAN| Switch
-    Switch --> PC1
-    Switch --> PC2
-    Switch --> Pi
-    Switch --> Printer
-    Router -.WiFi.-> Phone1
-    Router -.WiFi.-> Phone2
+  ## Step 2: Router Configuration
+
+- Accessed router admin panel at `192.168.1.1`
+- Configured SSID: **HomeNet_2025** with WPA2/WPA3 security
+- Enabled DHCP scope: `192.168.1.100–200`
+- Disabled UPnP for security
+
+### Screenshots
+![Router Login](images/router-login.jpg)
+*Router admin panel login page*
+
+![SSID Config](assets/router-ssid.png)
+*SSID configured as HomeNet_2025 with WPA2/WPA3*
+
+![DHCP Scope](assets/router-dhcp.png)
+*DHCP range set to 192.168.1.100–200*
+
+![UPnP Disabled](assets/router-upnp.png)
+*UPnP disabled for security best practice*
