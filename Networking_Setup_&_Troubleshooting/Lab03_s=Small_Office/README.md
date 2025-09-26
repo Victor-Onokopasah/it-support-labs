@@ -53,3 +53,15 @@ This exercise builds key networking administration skills in:
 - [SSID Config](Images/router-ssid.jpg) *SSID configured as HomeNet_2025 with WPA2/WPA3*
 - [DHCP Scope](Images/router-dhcp.jpg) *DHCP range set to 192.168.1.100–200*
 - [UPnP Disabled](Images/router-upnp.jpg) *UPnP disabled for security best practice*
+
+## Step 3: Device Connection & Initial Testing
+
+- Connected PCs to switch via Ethernet
+- Connected phones to Wi‑Fi (SSID: HomeNet_2025, WPA2/WPA3)
+- Validated connectivity with commands:
+
+```bash
+ping 192.168.1.1     # Test router reachability
+ping google.com      # Test internet connectivity
+tracert google.com   # Identify network bottlenecks
+
