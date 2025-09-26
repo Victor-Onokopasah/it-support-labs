@@ -65,7 +65,8 @@ ping 192.168.1.1     # Test router reachability
 ping google.com      # Test internet connectivity
 tracert google.com   # Identify network bottlenecks
 
-## Diagnostics Results
-- ![Ping Router](Images/ping-router-(192.168.1.1).png) *Click to view ping response to router IP 192.168.1.1*  
-- ![Ping Command](Images/ping-google-com.png) *Click to view ping response to google.com*  
-- [Tracert Demo](https://drive.google.com/file/d/1Qh1fFDqWqvIa9NVf5Zl6C3mHnXL2bmsx/view?usp=sharing) *Click to watch tracert output*  
+### Screenshots
+- ![Router Login](Images/router-login.jpg) *Router admin panel login page*
+- ![SSID Config](Images/router-ssid.jpg) *SSID configured as HomeNet_2025 with WPA2/WPA3*
+- ![DHCP Scope](Images/router-dhcp.jpg) *DHCP range set to 192.168.1.100–200*
+- ![UPnP Disabled](Images/router-upnp.jpg) *UPnP disabled for security best practice*
