@@ -67,4 +67,4 @@ tracert google.com   # Identify network bottlenecks
 
 ### Screenshots
 [Ping Router](images/ping-router.png)
-[Ping Command](images/ping-google.png)
+[Ping Command](images/ping-router-(192.168.1.1).png)
