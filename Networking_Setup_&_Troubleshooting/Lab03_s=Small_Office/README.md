@@ -34,3 +34,13 @@ This exercise builds key networking administration skills in:
 > - Mesh Node: Router → Mesh Node → Seamless Wi-Fi coverage across floors  
 > - Powerline Adapter: Router → Powerline Adapter → Remote Room Adapter → Wired PC/Smart TV
 
+## Step 2: Configure Router:
+- Access admin panel (192.168.1.1).
+- Set SSID: HomeNet_2024 (strong password).
+- Enable DHCP (scope: 192.168.1.100–200).
+- Disable UPnP (security best practice).
+  
+## Step 3: Connect Devices:
+- Wire computers to the switch.
+- Connect phones to Wi-Fi.
+- Verify connectivity (check Wi-Fi signal strength).
