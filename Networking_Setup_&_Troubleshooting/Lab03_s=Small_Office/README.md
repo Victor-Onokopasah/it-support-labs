@@ -32,4 +32,5 @@ This exercise builds key networking administration skills in:
 
 > Extended Options:  
 > - Mesh Node: Router → Mesh Node → Seamless Wi-Fi coverage across floors  
-> - Powerline Adapter: Router → Powerline Adapter → Remote Room Adapter → Wired PC/Smart TV  
+> - Powerline Adapter: Router → Powerline Adapter → Remote Room Adapter → Wired PC/Smart TV
+
