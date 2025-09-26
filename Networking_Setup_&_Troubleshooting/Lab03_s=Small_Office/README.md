@@ -55,14 +55,7 @@ This exercise builds key networking administration skills in:
 - Disabled UPnP for security
 
 ### Screenshots
-![Router Login](images/router-login.jpg)
-*Router admin panel login page*
-
-![SSID Config](assets/router-ssid.png)
-*SSID configured as HomeNet_2025 with WPA2/WPA3*
-
-![DHCP Scope](assets/router-dhcp.png)
-*DHCP range set to 192.168.1.100–200*
-
-![UPnP Disabled](assets/router-upnp.png)
-*UPnP disabled for security best practice*
+- [Router Login](Images/router-login.jpg) *Router admin panel login page*
+- [SSID Config](Images/router-ssid.jpg) *SSID configured as HomeNet_2025 with WPA2/WPA3*
+- [DHCP Scope](Images/router-dhcp.jpg) *DHCP range set to 192.168.1.100–200*
+- [UPnP Disabled](Images/router-upnp.jpg) *UPnP disabled for security best practice*
