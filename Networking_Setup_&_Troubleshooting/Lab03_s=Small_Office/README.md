@@ -28,19 +28,15 @@ This exercise builds key networking administration skills in:
 - Diagramming: draw.io (for topology diagram), Mermaid (for diagram‑as‑code in GitHub)
 
 ## Step 1: Network Topology Design  
+> Core Layout:
 ![Network Topology Design](Images/topology-design.jpg)
+
+> IP Ranges:
+> - Router: 192.168.1.1 (Default Gateway)
+> - Static IPs: 192.168.1.10 (Pi), 192.168.1.20 (Printer)
+> - DHCP Scope: 192.168.1.100–200
 
 > Extended Options:  
 > - Mesh Node: Router → Mesh Node → Seamless Wi-Fi coverage across floors  
 > - Powerline Adapter: Router → Powerline Adapter → Remote Room Adapter → Wired PC/Smart TV
 
-## Step 2: Configure Router:
-- Access admin panel (192.168.1.1).
-- Set SSID: HomeNet_2024 (strong password).
-- Enable DHCP (scope: 192.168.1.100–200).
-- Disable UPnP (security best practice).
-  
-## Step 3: Connect Devices:
-- Wire computers to the switch.
-- Connect phones to Wi-Fi.
-- Verify connectivity (check Wi-Fi signal strength).
