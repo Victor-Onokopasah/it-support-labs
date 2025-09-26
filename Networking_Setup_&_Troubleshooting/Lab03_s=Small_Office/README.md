@@ -65,8 +65,6 @@ ping 192.168.1.1     # Test router reachability
 ping google.com      # Test internet connectivity
 tracert google.com   # Identify network bottlenecks
 
-### Diagnostics Results
-- ![Ping Router](Images/ping-router-(192.168.1.1).png) *Click to view ping response to router IP 192.168.1.1*  
-- ![Ping Command](Images/ping-google-com.png) *Click to view ping response to google.com*  
-- ![Tracert Command](Images/tracert-google.png) *Click to view tracert output to google.com*  
-- [Tracert Video](https://drive.google.com/file/d/1Qh1fFDqWqvIa9NVf5Zl6C3mHnXL2bmsx/view?usp=sharing) *Click to watch tracert demo video*  
+### Screenshots
+[Ping Router](images/ping-router.png)
+[Ping Command](images/ping-google.png)
