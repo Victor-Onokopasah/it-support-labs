@@ -41,16 +41,23 @@ This exercise builds key networking administration skills in:
 > - Mesh Node: Router → Mesh Node → Seamless Wi-Fi coverage across floors  
 > - Powerline Adapter: Router → Powerline Adapter → Remote Room Adapter → Wired PC/Smart TV
 
-## Step 1: Network Topology Design
+```mermaid
+graph TD
+    Internet((Internet))
+    Router[Router 192.168.1.1]
+    Switch[Switch]
+    PC1[Computer 1 (DHCP)]
+    PC2[Computer 2 (DHCP)]
+    Phone1((Phone - WiFi))
+    Phone2((Phone - WiFi))
+    Pi[Raspberry Pi 192.168.1.10]
+    Printer[Printer 192.168.1.20]
 
-**IP Ranges:**
-- Router: 192.168.1.1 (Default Gateway)
-- Static IPs:
-  - Raspberry Pi: 192.168.1.10
-  - Printer: 192.168.1.20
-- DHCP Scope: 192.168.1.100–200
-
-**Extended Options:**
-- Mesh Node Router → Seamless Wi-Fi coverage across floors
-- Powerline Adapter → Router → Remote Room Adapter → Wired PC/Smart TV
-
+    Internet --> Router
+    Router -->|LAN| Switch
+    Switch --> PC1
+    Switch --> PC2
+    Switch --> Pi
+    Switch --> Printer
+    Router -.WiFi.-> Phone1
+    Router -.WiFi.-> Phone2
