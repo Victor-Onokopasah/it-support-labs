@@ -66,6 +66,7 @@ ping google.com      # Test internet connectivity
 tracert google.com   # Identify network bottlenecks
 
 ### Diagnostics Results
-- ![Ping Router](Images/ping-router-(192.168.1.1).png)
-- ![Ping Command](Images/ping-google-com.png)
-- ![Tracert Command](Images/tracert-google.png)
+- [Ping Router](Images/ping-router-(192.168.1.1).png)
+- [Ping Command](Images/ping-google-com.png)
+- [Tracert Command](Images/tracert-google.png)
+- [Tracert Video](https://drive.google.com/file/d/1Qh1fFDqWqvIa9NVf5Zl6C3mHnXL2bmsx/view?usp=sharing)
