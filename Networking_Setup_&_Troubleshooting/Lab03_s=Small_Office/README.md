@@ -30,6 +30,6 @@ This exercise builds key networking administration skills in:
 ## Step 1: Network Topology Design  
 ![Network Topology Design](./topology-design.jpeg)  
 
-> Extended Options:
-> -  Mesh Node: Router → Mesh Node → Seamless Wi‑Fi coverage across floors
-> -  Powerline Adapter: Router → Powerline Adapter → Remote Room Adapter → Wired PC/Smart TV
+> Extended Options:  
+> - Mesh Node: Router → Mesh Node → Seamless Wi-Fi coverage across floors  
+> - Powerline Adapter: Router → Powerline Adapter → Remote Room Adapter → Wired PC/Smart TV  
