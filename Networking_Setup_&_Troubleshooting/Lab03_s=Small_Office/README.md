@@ -28,7 +28,7 @@ This exercise builds key networking administration skills in:
 - Diagramming: draw.io (for topology diagram), Mermaid (for diagram‑as‑code in GitHub)
 
 ## Step 1: Network Topology Design  
-> Core Layout:
+> - Core Layout:
 ![Network Topology Design](Images/topology-design.jpg)
 
 > IP Ranges:
