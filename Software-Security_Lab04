@@ -1,1 +1,42 @@
 
+# Malware Removal Guide
+*IBM IT Support Professional Certificate - Lab04*
+
+## Common Customer Complaints & Symptoms
+
+When customers contact the help desk about malware, they typically describe these symptoms:
+
+### 🚨 **Immediate Red Flags**
+- "My computer is incredibly slow and keeps freezing"
+- "I'm getting constant pop-up ads everywhere"
+- "My browser homepage changed and I can't change it back"
+- "My files have strange extensions and won't open"
+- "A message says my files are encrypted and demands payment"
+- "My antivirus disappeared and won't turn back on"
+- "There are new toolbars/programs I didn't install"
+- "My computer keeps redirecting to strange websites"
+
+## Malware Removal Procedure
+
+### Step 1: Initial Assessment & Isolation
+
+**Customer Communication:**
+- "I understand this is frustrating. Let's work through this step-by-step."
+- "When did you first notice these symptoms?"
+- "Have you downloaded any new software or clicked on any suspicious links recently?"
+
+**Technical Actions:**
+1. **Disconnect from network** - Unplug Ethernet cable or disable WiFi
+2. **Boot into Safe Mode** - Prevents most malware from loading
+   - Windows: Hold Shift + Restart → Troubleshoot → Advanced Options → Startup Settings → Restart → Safe Mode
+3. **Document symptoms** for tracking and pattern recognition
+
+### Step 2: Identification & Scanning
+
+**Primary Scanning Tools:**
+1. **Run installed antivirus** with full system scan
+2. **Use Malwarebytes** - Excellent for detecting and removing stubborn malware
+3. **Microsoft Defender Offline** - Boots from USB to scan before Windows loads
+4. **ADWCleaner** - Specialized for adware and browser hijackers
+
+**Scanning Procedure:**
