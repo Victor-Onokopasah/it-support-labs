@@ -60,13 +60,13 @@ This exercise builds key networking administration skills in:
 - Connected phones to Wi‑Fi (SSID: HomeNet_2025, WPA2/WPA3)
 - Validated connectivity with commands:
 
-```bash
-ping 192.168.1.1     # Test router reachability
-ping google.com      # Test internet connectivity
-tracert google.com   # Identify network bottlenecks
+- Validated connectivity with the following commands:
+  - `ping 192.168.1.1` - To test router reachability.
+  - `ping google.com` - To test internet connectivity.
+  - `tracert google.com` - To identify network bottlenecks.
 
-### Diagnostics Results
-- [Ping Router](Images/ping-router-(192.168.1.1).png)
-- [Ping Command](Images/ping-google-com.png)
-- [Tracert Command](Images/tracert-google.png)
-- [Tracert Video](https://drive.google.com/file/d/1Qh1fFDqWqvIa9NVf5Zl6C3mHnXL2bmsx/view?usp=sharing)
+- Diagnostic results and evidence are linked below:
+  - [Ping Router](Images/ping-router-192.168.1.1.png)
+  - [Ping Command](Images/ping-google-com.png)
+  - [Tracert Command](Images/tracert-google.png)
+  - [Tracert Video](https://drive.google.com/file/d/1Qh1fFDqWqvIa9NVf5Z16C3mHnXL2bmsx/view?usp=sharing)
