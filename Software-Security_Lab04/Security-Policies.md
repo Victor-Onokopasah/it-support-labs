@@ -1,9 +1,9 @@
 ### Complete Formatted `Security-Policies.md`
 
 ```markdown
-**Author:** Victor Onokopasah
-**Lab:** 04 - Security Policies
-**Date:** [Current Month] 2024
+Author: Victor Onokopasah
+Lab: 04 - Security Policies
+Date: [Current Month] 2024
 
 # Lab 04: - Security Policies
 
